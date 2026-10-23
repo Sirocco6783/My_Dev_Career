@@ -1,7 +1,6 @@
-# Мои планы развития
-
-В этой папке хранятся мои стратегические и тактические планы по достижению цели — стать специалистом в области **AI Enterprise Architecture**.
-
-- **Генеральный план** — долгосрочная стратегия (этапы 1–5).
-- **Исполнительный план** — тактика на текущий месяц (расписание по дням).
-- **Инструкция** — как использовать эти планы ежедневно, еженедельно и ежемесячно.
+My Development Plans
+Permalink: My Development Plans
+This folder contains my strategic and tactical plans for achieving my goal of becoming a specialist in the field of AI Enterprise Architecture.
+• Master Plan — long-term strategy (stages 1–5).
+• Action Plan — tactics for the current month (daily schedule).
+• Guide — how to use these plans on a daily, weekly and monthly basis.
