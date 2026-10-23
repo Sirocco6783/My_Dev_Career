@@ -9,7 +9,8 @@ of becoming a specialist in the field of AI Enterprise Architecture.
 ===========================================================================
 
 • Master Plan — long-term strategy (stages 1–5).
+************************************************
 • Action Plan — tactics for the current month (daily schedule).
+***************************************************************
 • Guide — how to use these plans on a daily, weekly and monthly basis.
-
-============================================================================
+**********************************************************************
