@@ -1,6 +1,6 @@
-# ИСПОЛНИТЕЛЬНЫЙ ПЛАН (26 октября – 1 ноября 2026)
+# ИСПОЛНИТЕЛЬНЫЙ ПЛАН (2–8 ноября 2026)
 
-**Цель недели:** Python Essentials 2 — завершение Module 1 (PIP) + Module 2 (Strings).
+**Цель недели:** Python Essentials 2 — завершение Module 2 (Strings) + переход к Module 3 (ООП).
 
 ---
 
@@ -19,13 +19,13 @@
 
 | День | Задача | Контрольная точка |
 | :--- | :--- | :--- |
-| Пн (26) | PE2 — 1.4.1.14 (pygame) + 1.4.1.15 (How to use pip: continued) | Понять, как работает pygame |
-| Вт (27) | PE2 — 1.4.1.16 + 1.4.1.17 (How to use pip) | Разобраться с uninstall |
-| Ср (28) | PE2 — 1.4.1.18 (Section Summary) + 1.4.1.19 (Module Completion) | Пройти упражнения |
-| Чт (29) | PE2 — Module 1 Quiz + Test | Проверить знания |
-| Пт (30) | PE2 — 2.1.1 + 2.1.2 (Characters, strings, computers) | Понять, как компьютер хранит символы |
-| Сб (31) | PE2 — 2.2.1 + 2.2.2 (The nature of strings in Python) | Написать примеры со строками |
-| Вс (1) | Повторение + Мини-тест PCEP | Записать сложности |
+| Пн (2) | PE2 — 2.3.1.18 (Your own split) + 2.4.1.1 (Strings in action) | Написать свою функцию `mysplit()` |
+| Вт (3) | PE2 — 2.4.1.2 + 2.4.1.3 (String comparison, Sorting) | Понять сравнение строк и `sorted()` |
+| Ср (4) | PE2 — 2.4.1.4 (Strings vs. numbers) + 2.4.1.5 (Section Summary) | Пройти упражнения |
+| Чт (5) | PE2 — 2.5.1.1 + 2.5.1.2 (LAB: Caesar cipher, Palindrome, Anagram) | Написать программы |
+| Пт (6) | PE2 — 2.6.1.1 + 2.6.1.2 (Errors, Exceptions) | Понять разницу между ошибками и исключениями |
+| Сб (7) | PE2 — 2.7.1.1 + 2.7.1.2 (Hierarchy of exceptions, Useful exceptions) | Написать примеры с `try/except` |
+| Вс (8) | Повторение + Мини-тест PCEP | Записать сложности |
 
 ---
 
@@ -41,10 +41,10 @@
 
 ---
 
-## Следующая неделя (2–8 ноября)
+## Следующая неделя (9–15 ноября)
 
 | № | Тема |
 | :--- | :--- |
-| 1 | PE2 — Module 2 (продолжение): String methods |
-| 2 | PE2 — Module 2: Errors and exceptions |
-| 3 | Подготовка к Module 2 Quiz |
+| 1 | PE2 — Module 2 Quiz + Test |
+| 2 | PE2 — Module 3 (ООП): классы, объекты |
+| 3 | Подготовка к Module 3 Quiz |
