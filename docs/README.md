@@ -1,16 +1,9 @@
-My Development Plans
-=====================
+# My Development Plans
 
-Permalink: My Development Plans
-********************************
+Here are my strategic and tactical plans for achieving my goal of becoming an AI Enterprise Architecture specialist.
 
-This folder contains my strategic and tactical plans for achieving my goal
-of becoming a specialist in the field of AI Enterprise Architecture.
-===========================================================================
-
-• Master Plan — long-term strategy (stages 1–5).
-************************************************
-• Action Plan — tactics for the current month (daily schedule).
-***************************************************************
-• Guide — how to use these plans on a daily, weekly and monthly basis.
-**********************************************************************
+## 📚 Documents
+- [General Plan](./General_Plan.md) — Long-term strategy (Stages 1-5).
+- [Executive Plan (November 2026)](./Executive_Plan_November_2026.md) — Tactical monthly schedule.
+- [How to Learn](./How_To_Learn.md) — My learning strategies and rules.
+- [How to Use Plans](./How_To_Use_Plans.md) — Guide on using these plans daily/weekly/monthly.
